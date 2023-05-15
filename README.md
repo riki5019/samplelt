@@ -1,1 +1,1 @@
-# samplej.lt
+# sample.lt
